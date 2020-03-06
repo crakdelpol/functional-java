@@ -2,6 +2,7 @@ import java.util.function.BiFunction;
 import java.util.function.Function;
 
 public class Functions {
+
     public static void main(String[] args) {
 
         String name = "matteo";
