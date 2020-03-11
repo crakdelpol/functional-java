@@ -1,7 +1,7 @@
 import java.util.function.BiFunction;
 import java.util.function.Function;
 
-public class Functions {
+public class _Functions {
 
     public static void main(String[] args) {
 

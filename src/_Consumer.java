@@ -1,4 +1,4 @@
-public class Consumer {
+public class _Consumer {
 
     public static void main(String[] args) {
 
